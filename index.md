@@ -1,4 +1,4 @@
-<img width="468" height="23" alt="image" src="https://github.com/user-attachments/assets/454af6ed-e579-4c79-888d-c95322e23fd2" />---
+---
 layout: default
 title: Mikaela Rosen Perez
 ---
