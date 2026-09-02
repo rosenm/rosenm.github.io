@@ -9,30 +9,30 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 ---
 
-## Talks and posters
+## Talks and presentaions
 
 <table>
 <tr>
 <td align="center">
-<img src="/images/BoG_2026.jpg" width="400"><br>
-<em>@ Biology of Genomes 2026</em>
+<img src="/images/grc_1.jpeg" width="400"><br>
+<em>@ Gordon Research Conference 2026</em>
 </td>
 
 <td align="center">
-<img src="/images/GGS_retreat_talk.jpg" width="250"><br>
-<em>GGS departmental retreat lightning talk</em>
+<img src="/images/WPC_1.jpg" width="250"><br>
+<em> World Parkinson's Congress 2026</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/images/LanguageProject_talk.jpg" width="400"><br>
-<em>Sharing The Language Project and the importance of accessible science communication</em>
+<img src="/images/GBA1_1.jpeg" width="400"><br>
+<em> GBA1 Meeting 2026 - Best Abstract Award</em>
 </td>
 
 <td align="center">
-<img src="/images/ChassiDex_presentation.jpg" width="250"><br>
-<em>Presenting ChassiDex during my synthetic biology days</em>
+<img src="/images/GBA1_2.jpeg" width="250"><br>
+<em> GBA1 Meeting 2026 - Talk</em>
 </td>
 </tr>
 
