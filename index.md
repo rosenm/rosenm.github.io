@@ -45,7 +45,7 @@ I graduated with honors from the [University of Richmond](https://www.richmond.e
 
 &nbsp;·&nbsp;
 
-<a href="https://www.linkedin.com/in/mikaela-rosen-perez" /" title="LinkedIn">
+<a href="https://www.linkedin.com/in/mikaela-rosen-perez" title="LinkedIn">
   <i class="fa-brands fa-linkedin"></i>
 </a>
 
