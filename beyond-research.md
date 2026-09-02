@@ -14,25 +14,37 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/grc_1.jpeg" width="350"><br>
+<img src="/images/grc_1.jpeg" width="250"><br>
 <em>@ Gordon Research Conference 2026</em>
 </td>
 
 <td align="center">
-<img src="/images/WPC_1.jpg" width="350"><br>
+<img src="/images/WPC_1.jpg" width="250"><br>
 <em> World Parkinson's Congress 2026</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/images/GBA1_1.jpeg" width="400"><br>
+<img src="/images/GBA1_1.jpeg" width="350"><br>
 <em> GBA1 Meeting 2026 - Best Abstract Award</em>
 </td>
 
 <td align="center">
-<img src="/images/GBA1_2.jpeg" width="400"><br>
+<img src="/images/GBA1_2.jpeg" width="350"><br>
 <em> GBA1 Meeting 2026 - Talk</em>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/images/VA_2.jpg" width="250"><br>
+<em> Van Andel Meeting 2025 - Selected Speaker</em>
+</td>
+
+<td align="center">
+<img src="/images/ADPD_2.PNG" width="250"><br>
+<em> AD/PD Meeting 2025</em>
 </td>
 </tr>
 
@@ -45,8 +57,8 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/ASHG_2025_poster.jpg" width="200"><br>
-<em>Reviewer’s Choice poster session at ASHG 2025</em>
+<img src="/images/ASHG_26_1.jpeg" width="250"><br>
+<em> ASHG 2025</em>
 </td>
 
 <td align="center">
@@ -57,7 +69,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <tr>
 <td align="center">
-<img src="/images/ASHG_2025_Parse.jpg" width="250"><br>
+<img src="/images/ASHG_26_2.JPG" width="250"><br>
 <em>Parse bowling party</em>
 </td>
 
@@ -112,24 +124,6 @@ A few snapshots from conferences, travel, and life outside the lab.
 <td align="center">
 <img src="/images/GPC_team_outing.jpg" width="250"><br>
 <em>Genomics Preprint Club team outing to MoMA, NYC 2025</em>
-</td>
-</tr>
-</table>
-
----
-
-## RajLab homemade birthday cake tradition
-
-<table>
-<tr>
-<td align="center">
-<img src="/images/RajLab_Jul2025_cake.jpeg" width="150"><br>
-<em>July 2025</em>
-</td>
-
-<td align="center">
-<img src="/images/RajLab_Jul_2024_birthday.jpg" width="300"><br>
-<em>July 2024</em>
 </td>
 </tr>
 </table>
