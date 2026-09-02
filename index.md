@@ -1,6 +1,6 @@
----
+<img width="468" height="23" alt="image" src="https://github.com/user-attachments/assets/454af6ed-e579-4c79-888d-c95322e23fd2" />---
 layout: default
-title: Kailash BP
+title: Mikaela Rosen Perez
 ---
 
 ## About Me
@@ -9,13 +9,13 @@ title: Kailash BP
 
 I am a PhD candidate at the [Raj Lab](https://rajlab.org/), Icahn School of Medicine at Mount Sinai (ISMMS), advised by Dr. [Towfique Raj](https://scholar.google.com/citations?user=_1soEyEAAAAJ&hl=en). My research focuses on decoding the distal genetic regulation of gene expression and splicing in the human brain using computational approaches.
 
-I graduated from the [Bhupat and Jyoti Mehta School of Biosciences, Department of Biotechnology](https://biotech.iitm.ac.in), [Indian Institute of Technology Madras](https://www.iitm.ac.in) with an Integrated B.Tech + M.Tech degree in Biological Engineering, specializing in Computational Biology.
+I graduated with honors from the [University of Richmond](https://www.richmond.edu) with Bachelor's of Science degree in Biology, specializing in Computational Biology.
 
 ## Contact
 
 <div style="text-align:center; margin-top:15px; font-size:1.0em;">
 
-<a href="mailto:kailashbp10@gmail.com" title="Email">
+<a href="mailto:mikaela.rosen.perez@gmail.com" title="Email">
   <i class="fa-solid fa-envelope"></i>
 </a>
 
@@ -33,19 +33,20 @@ I graduated from the [Bhupat and Jyoti Mehta School of Biosciences, Department o
 
 &nbsp;·&nbsp;
 
-<a href="https://orcid.org/0000-0002-1501-4881" title="ORCID">
+<a href="https://orcid.org/0000-0001-5941-8485" title="ORCID">
   <i class="fa-brands fa-orcid"></i>
 </a>
 
 &nbsp;·&nbsp;
 
-<a href="https://github.com/kailashbp" title="GitHub">
+<a href="https://github.com/rosenm" title="GitHub">
   <i class="fa-brands fa-github"></i>
 </a>
 
 &nbsp;·&nbsp;
 
-<a href="https://www.linkedin.com/in/kailashbp10/" title="LinkedIn">
+<a href="https://www.linkedin.com/in/mikaela-rosen-perez <img width="468" height="23" alt="image" src="https://github.com/user-attachments/assets/366a1276-5a5b-4e76-a08a-d28a469060f2" />
+/" title="LinkedIn">
   <i class="fa-brands fa-linkedin"></i>
 </a>
 
