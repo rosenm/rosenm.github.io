@@ -26,12 +26,12 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <tr>
 <td align="center">
-<img src="/images/GBA1_1.jpeg" width="350"><br>
+<img src="/images/GBA1_1.jpeg" width="250"><br>
 <em> GBA1 Meeting 2026 - Best Abstract Award</em>
 </td>
 
 <td align="center">
-<img src="/images/GBA1_2.jpeg" width="350"><br>
+<img src="/images/GBA1_2.jpeg" width="250"><br>
 <em> GBA1 Meeting 2026 - Talk</em>
 </td>
 </tr>
@@ -57,7 +57,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/ASHG_26_1.jpeg" width="250"><br>
+<img src="/images/ASHG_26_2.jpeg" width="250"><br>
 <em> ASHG 2025</em>
 </td>
 
@@ -69,8 +69,8 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <tr>
 <td align="center">
-<img src="/images/ASHG_26_2.JPG" width="250"><br>
-<em>Parse bowling party</em>
+<img src="/images/ASHG_26_1.JPG" width="250"><br>
+<em>Industry-sponsored afterparty</em>
 </td>
 
 <td align="center">
@@ -112,39 +112,22 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 ---
 
-## Teams
+## Visiting Scholar w/ Raychaudhuri Lab @ Harvard/BWH
 
 <table>
-<tr>
-<td align="center">
-<img src="/images/GGS_retreat_2024.jpg" width="250"><br>
-<em>GGS departmental retreat 2024</em>
-</td>
-
-<td align="center">
-<img src="/images/GPC_team_outing.jpg" width="250"><br>
-<em>Genomics Preprint Club team outing to MoMA, NYC 2025</em>
-</td>
-</tr>
-</table>
-
----
-
-## ASHG 2023
-
-<table>
-<tr>
-<td align="center">
-<img src="/images/ASHG_2023_collab_dinner.jpeg" width="250"><br>
-<em>RajLab + collaborators dinner</em>
-</td>
-
-<td align="center">
-<img src="/images/ASHG_2023_white_house.jpeg" width="350"><br>
-<em>White House tour, Washington DC</em>
-</td>
-</tr>
-
+  <tr>
+    <td colspan="2" align="center">
+      <img src="/images/boston_2.jpg" width="100%"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="/images/boston_1.jpeg" width="50%"><br>
+    </td>
+    <td align="center" width="50%">
+      <img src="/images/boston_3.jpeg" width="50%"><br>
+    </td>
+  </tr>
 </table>
 
 ---
