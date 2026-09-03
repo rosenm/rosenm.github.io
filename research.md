@@ -25,13 +25,11 @@ Large-scale comprehensive single-cell RNA sequencing and T-cell receptor analysi
 </tr>
 </table>
 
-Immune alterations in PD are found in peripheral blood indicating a pro-inflammatory status during disease and as early as prodromal stages. However, specific alterations are disputed and must be clarified with a large-scale study and a carefully curated single-cell cohort that controls for biological heterogeneity. By increasing statistical power for distal regulatory mapping, BigBrain provides a foundation for understanding the trans-regulatory architecture of the human brain and its relationship to neurological disease risk.
+The role of peripheral immunity in Parkinson's disease (PD) remains incompletely understood. In this work, we performed paired single-cell RNA sequencing and T-cell receptor (TCR) profiling almost 1 million peripheral blood mononuclear cells (PBMCs) from 168 donors spanning idiopathic and genetic PD, prodromal PD (including subjects with REM sleep behavior disorder (RBD)), and healthy controls. We identify disease-, sex-, and age-associated immune compositional shifts, a biphasic mitochondrial transcriptional signature marking prodromal immune remodeling, and sexually dimorphic cytotoxic T-cell expansions linked to clonal dynamics. These findings provide a comprehensive single-cell map of peripheral immune dysregulation in PD with implications for biomarkers and therapeutic targeting.
 
-This project is lead by myself, **Mikaela Rosen**, and an instructor in the Raj lab, Dr. Oriol Narcis and performed under supervision of our PI, Dr. Towfique Raj, in collaboration with Drs. Rachel Saunders-Pullman and Giulietta Riboldi. 
+This project is lead by myself, **Mikaela Rosen**, and an instructor in the Raj lab, Dr. Oriol Narcis and performed under supervision of our PI, Dr. Towfique Raj, in collaboration with clinicians Drs. Rachel Saunders-Pullman and Giulietta Riboldi. 
 
 **Key Skills:** Single-cell RNA sequencing analysis, R/Python coding, pipeline development (ex: Snakemake), Differential expression analysis (ex: DESeq2, limma), Sample-collection strategy, Multi-omic analysis, T cell immune repertoire analysis
-
-**Links:** *Preprint coming soon!*
 
 **Publications:** *Preprint coming soon!*
 
@@ -47,13 +45,13 @@ This project is lead by myself, **Mikaela Rosen**, and an instructor in the Raj 
 
 <td valign="middle">
 <h3 id="eQTL">
-cis-QTL analysis of peripheral gene expression, T-cell receptor gene usage and HLA gene expression.
+<em>cis</em>-QTL analysis of peripheral gene expression, T-cell receptor gene usage and HLA gene expression.
 </h3>
 </td>
 </tr>
 </table>
 
-Genome-wide association studies (GWAS) have identified human leukocyte antigen (HLA) class II PD risk loci, which suggests an unexplored important role for CD4 T cells in their interaction with antigen presenting cells. This project investigate... I applied scHLApers to... We reveal that there are cell type specific and shared biology. Additionally, we find some signal unique to our cohort not previously seen in healthy cohorts. We are expanding this eQTL analysis to other neurodegenerative cohorts and biologically relevant tissues in the Raj Lab. 
+Genome-wide association studies (GWAS) have identified HLA class II PD risk loci, which suggests an unexplored important role for CD4 T cells in their interaction with antigen presenting cells. This work investigates the association between PD risk genetics and gene expression with special focus on the human leukocyte antigen (HLA) and TCR. I applied the [scHLApers](https://pubmed.ncbi.nlm.nih.gov/38036787/) pipeline to improve the quantification of HLA gene expression and performed an HLA *cis*-eQTL to identify both shared and cell type specific eQTLs. Some of these eQTLs have been identified in healthy cohorts in previous literature, while others are novel and need to be explored further as potentially disease-specific. We are expanding this eQTL analysis to other neurodegenerative cohorts and biologically relevant tissues in the Raj Lab. The results from these experiments may illuminate details of the mechanism with which HLA GWAS risk variants affect immune cell types in PD and impact treatment development strategies.
 
 This project is lead by myself, **Mikaela Rosen**, under supervision of our PI, Dr. Towfique Raj. Other key contributors in the Raj lab include Dr. Tasuhiko Naito, Dr. Oriol Narcis and Beomjin Jang. Additionally, I was mentored by Dr. Soumya Raychaudhuri (BWH/HM/Broad) and members of his lab including Drs. Yu Zhao and Jose Alquicira Hernandez. 
 
@@ -79,7 +77,7 @@ Isofunctional clustering and mechanistic characterization of the arsenate reduct
 </tr>
 </table>
 
-Applied autoMISST tool (created by Fetrow lab) to cluster the ArsC superfamily of proteins, improving their classification from three ambiguous groups to nine groups of proteins. Biochemically explored these isofunctional groups using molecular dynamics simulations to further hypothesize the enzyme reaction mechanism. Led a collaborative project between two mentors at different institutions which led to a first author publication and an honors thesis.
+Classified the Arsenate reductase (ArsC) superfamily of proteins on the basis of active site features utilizing the tools TuLIP (two-level iterative clustering process) and autoMISST (automated multilevel iterative sequence searching technique). This approach identified nine functionally relevant (perhaps isofunctional) protein groups with distinct mechanisms including classical mechanisms like Grx-linked and Trx-linked redox and novel low-molecular weight protein tyrosine phosphatases (LMW-PTPs) like function. Molecular dynamics simulations were utilized to explore functional site details and hypothesize mechanistic roles for conserved active site residues. A more detailed biochemical understanding of ArsC and ArsC-like PTP mechanisms opens possibilities for further understanding of arsenate bioremediation and the LMW-PTP mechanism.
 
 This work was lead by me, **Mikaela Rosen**, under the supervision and mentorship of Dr. Carol Parish (University of Richmond) and Dr. Jacquelyn Fetrow (University of Richmond and Albright College).
 
