@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Life outtakes
+title: Gallery
 ---
 
-# Life outtakes
+# Gallery
 
 A few snapshots from conferences, travel, and life outside the lab.
 
@@ -14,36 +14,36 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/grc_1.jpeg" width="250"><br>
-<em>@ Gordon Research Conference 2026</em>
+<img src="/images/grc_1.jpeg" width="50%"><br>
+<em> Gordon Research Conference 2026</em>
 </td>
 
 <td align="center">
-<img src="/images/WPC_1.jpg" width="250"><br>
+<img src="/images/WPC_1.jpg" width="50%"><br>
 <em> World Parkinson's Congress 2026</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/images/GBA1_1.jpeg" width="250"><br>
+<img src="/images/GBA1_1.jpeg" width="50%"><br>
 <em> GBA1 Meeting 2026 - Best Abstract Award</em>
 </td>
 
 <td align="center">
-<img src="/images/GBA1_2.jpeg" width="250"><br>
+<img src="/images/GBA1_2.jpeg" width="50%"><br>
 <em> GBA1 Meeting 2026 - Talk</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/images/VA_2.jpg" width="250"><br>
+<img src="/images/VA_2.jpg" width="50%"><br>
 <em> Van Andel Meeting 2025 - Selected Speaker</em>
 </td>
 
 <td align="center">
-<img src="/images/ADPD_2.PNG" width="250"><br>
+<img src="/images/ADPD_2.PNG" width="50%"><br>
 <em> AD/PD Meeting 2025</em>
 </td>
 </tr>
@@ -57,7 +57,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/ASHG_26_2.jpeg" width="250"><br>
+<img src="/images/ASHG_26_2.JPG" width="250"><br>
 <em> ASHG 2025</em>
 </td>
 
@@ -69,7 +69,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <tr>
 <td align="center">
-<img src="/images/ASHG_26_1.JPG" width="250"><br>
+<img src="/images/ASHG_26_1.jpeg" width="250"><br>
 <em>Industry-sponsored afterparty</em>
 </td>
 
@@ -82,30 +82,30 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 ---
 
-## RajLab end of year holiday parties
+## Raj Lab Festivities
 
 <table>
 <tr>
 <td align="center">
-<img src="/images/RajLab_2025_holiday.jpg" width="400"><br>
-<em>2025</em>
+<img src="/images/rajLab_3.jpeg" width="50%"><br>
+<em> Celebrating 10 years of the Lab</em>
 </td>
 
 <td align="center">
-<img src="/images/RajLab_2024_holiday.jpg" width="250"><br>
-<em>2024</em>
+<img src="/images/rajLab_4.jpeg" width="50%"><br>
+<em> Squid Game Experience</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/images/RajLab_2023_holiday_dinner.jpeg" width="300"><br>
-<em>2023</em>
+<img src="/images/rajLab_1.JPG" width="50%"><br>
+<em> Apple picking in NY</em>
 </td>
 
 <td align="center">
-<img src="/images/RajLab_2022_holiday.jpeg" width="250"><br>
-<em>2022</em>
+<img src="/images/rajLab_2.jpg" width="50%"><br>
+<em> Win(e) wall department celebration</em>
 </td>
 </tr>
 </table>
@@ -117,7 +117,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="/images/boston_2.jpg" width="100%"><br>
+      <img src="/images/boston_2.jpg" width="75%"><br>
     </td>
   </tr>
   <tr>
@@ -137,25 +137,25 @@ A few snapshots from conferences, travel, and life outside the lab.
 <table>
 <tr>
 <td align="center">
-<img src="/images/Iceland.jpg" width="250"><br>
-<em>Glacier caving in Iceland</em>
+<img src="/images/misc_1.JPG" width="250"><br>
+<em> Hiking in Sedona, AZ</em>
 </td>
 
 <td align="center">
-<img src="/images/Hamido.jpg" width="250"><br>
-<em>Enjoying seafood at Hamido's Astoria</em>
+<img src="/images/misc_2.jpeg" width="250"><br>
+<em> Blueberry picking with my dog</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/images/Merck.jpg" width="200"><br>
-<em>Merck co-op, Cambridge MA (Aug–Dec 2025)</em>
+<img src="/images/misc_3.jpeg" width="200"><br>
+<em> Skiing in Vermont</em>
 </td>
 
 <td align="center">
-<img src="/images/2024_GI_bursary_award.jpg" width="250"><br>
-<em>Genome Informatics 2024 bursary award recipients at EMBL-EBI / Wellcome Sanger Institute</em>
+<img src="/images/misc_4.jpeg" width="250"><br>
+<em> Watching US Open tennis</em>
 </td>
 </tr>
 
