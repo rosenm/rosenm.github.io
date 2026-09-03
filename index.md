@@ -7,7 +7,7 @@ title: Mikaela Rosen Perez
 
 <img class="profile-picture" src="images/mikaela_1.JPG" width="120">
 
-I graduated with a PhD in Biomedical Sciences ([Genetics and Genomic Sciences](https://icahn.mssm.edu/research/genomics)) from the Icahn School of Medicine at Mount Sinai (ISMMS), advised by Dr. [Towfique Raj](https://scholar.google.com/citations?user=_1soEyEAAAAJ&hl=en)([Raj Lab @ MSSM](https://rajlab.org/)). My research focused on understanding the genetic and peripheral immune components of Parkinson's disease (PD) using computational approaches including single-cell RNA sequencing and expression quantitative trait loci analysis.
+I graduated with a PhD in Biomedical Sciences ([Genetics and Genomic Sciences](https://icahn.mssm.edu/research/genomics)) from the Icahn School of Medicine at Mount Sinai (ISMMS), advised by Dr. [Towfique Raj](https://scholar.google.com/citations?user=_1soEyEAAAAJ&hl=en) ([Raj Lab @ MSSM](https://rajlab.org/)). My research focused on understanding the genetic and peripheral immune components of Parkinson's disease (PD) using computational approaches including single-cell RNA sequencing and expression quantitative trait loci analysis.
 
 I earned a Bachelor's of Science degree in Biology, specializing in Computational Biology, with honors from the [University of Richmond](https://www.richmond.edu). I completed research for all four years of my undergraduate education, studying the biochemical characteristics and molecular dynamics of protein superfamiles. 
 
@@ -47,7 +47,7 @@ I earned a Bachelor's of Science degree in Biology, specializing in Computationa
       <img src="/images/scRNAseq.jpg" width="120">
     </td>
     <td>
-      <strong><a href="/research#bigbrain">scRNA-seq atlas in PD</a></strong>
+      <strong><a href="/research#scRNA-seq">scRNA-seq atlas in PD</a></strong>
       Large-scale comprehensive single-cell RNA sequencing and T-cell receptor analysis of the peripheral immune system in PD
     </td>
   </tr>
@@ -57,7 +57,7 @@ I earned a Bachelor's of Science degree in Biology, specializing in Computationa
       <img src="/images/eQTL.jpg" width="120">
     </td>
     <td>
-      <strong><a href="/research#intertissuedc">eQTL analysis</a></strong>
+      <strong><a href="/research#eQTL">eQTL analysis</a></strong>
       <em>cis</em>-QTL analysis of peripheral gene expression, T-cell receptor gene usage and HLA gene expression.
     </td>
   </tr>
@@ -67,7 +67,7 @@ I earned a Bachelor's of Science degree in Biology, specializing in Computationa
       <img src="/images/mockProtein.jpg" width="120">
     </td>
     <td>
-      <strong><a href="/research#iGEM-interlab">Protein molecular dynamics</a></strong>
+      <strong><a href="/research#protein-MD">Protein molecular dynamics</a></strong>
       Classification and characterization of the Arsenate reductase protein superfamily using molecular dynamics simulations.
     </td>
   </tr>
@@ -77,7 +77,8 @@ I earned a Bachelor's of Science degree in Biology, specializing in Computationa
 ## Explore
 
 - [Research](/research) — Current and past projects
-- [Activities](/activities) — News, awards, teaching, communication, outreach, and memberships
+- [Activities](/activities) — News, teaching, outreach, and memberships
+- [Achievements](/scicomm) — Awards and honors
 - [Beyond research](/beyond-research) — Outside the lab
 
 ### License
