@@ -9,35 +9,48 @@ title: Activities
 
 ### 2026
 
-- **August** — Presented a poster at the GRC, Biology of Genomes meeting held in Barcelona, Spain.
-- **March** — [SingleBrain](https://www.nature.com/articles/s41588-026-02541-x) published in Nature Genetics!
+- **August** —  Officially awarded my PhD degree in Biomedical Sciences from the **Icahn School of Medicine at Mount Sinai**, with a specialty in Genetics and Genomic Sciences (GGS).
+- **August** —  Presented a poster at the Neurobiology of Brain Disorders Gordon Research Conference (GRC) and Gordon Research Seminar (GRS) held in Barcelona, Spain. Selected and served as discussion lead for the Mechanistic Advances in Neurodegenerative Disease Pathophysiology session of the trainee-focused GRS. Selected as the Carl Storm Opportunity Fellow which provided funding to support my time at the conference. 
+- **May** — Presented a poster for the Neuroinflammation and Immune Systems Poster Tour at the **World Parkinson's Congress (WPC)** meeting in Phoenix, AZ. Abstracts in the top 15% of submissions were selected for Poster Tour sessions. My attendance was supported by a travel award from the [Parkinson's Foundation](https://www.parkinson.org). 
+- **May** - Awarded Best Abstract 1st place and presented a selected speaker talk at the **GBA1 Conference** in Phoenix, AZ. My attendance was supported by a travel award GBA1 conference organizers.
+- **May** - Walked and was ceremoniously hooded as a graduate at the Mount Sinai commencement ceremony. 
+- **March** — [SingleBrain](https://www.nature.com/articles/s41588-026-02541-x), which I am a co-author on, is published in Nature Genetics!
 
 ### 2025
 
-- **December** — Spent 4 months as Visiting Scholar at **BWH/Harvard Medical School, Boston, MA, USA.** 
-- **October** — Presented my poster at ASHG!
+- **October** — Presented a poster at the **American Society of Human Genetics (ASHG) 2025 meeting** in Boston, MA.
+- **August** — Spent 3 months as **Visiting Scholar in Soumya Raychaudhuri's lab** at Brigham and Women's Hospital/Harvard Medical School/Broad Institute, Boston, MA. This opportunity was funded by the [Parkinson's Foundation](https://www.parkinson.org). 
+- **April** — Presented a selected speaker virtual talk and an in-person poster at **AD/PD** in Vienna, Austria. 
+- **January** — Attended and presented a poster at the **T cells in the Brain meeting** hosted at Columbia University, New York, NY. 
 
 ### 2024
 
-- **November** — Presented a short talk at **Genome Informatics 2024**, Wellcome Genome Campus, United Kingdom.
-- **May** — Gave a short talk work at the **Jackson Laboratory Long-Read Sequencing Workshop**.
+- **September** — Attended and presented a selected speaker talk at the **Grand Challenges in Parkinson's disease** hosted at Van Andel Institute, Grand Rapids, MI.
+- **June** — **Awarded F31 by NINDS**.
+- **January** — **Molecular Neurodegeneration** course at Wellcome Genome Campus, United Kingdom.
 
 ### 2023
 
-- **November** — Poster presentation at the **American Society of Human Genetics (ASHG) Annual Meeting**, Washington, DC.
+- **NOV** — Presented my poster at the **American Society of Human Genetics (ASHG) 2023 meeting** in Washington DC.
+- **SEPT** — Attended the **Parkinson's Disease Biomarkers Program (PDBP) meeting** hosted by the NINDS NIH. 
+- **AUG** — Submitted my **F31 application to National Institute of Neurological Disorders and Stroke (NINDS)** at the NIH.
+- **MAY** — Completed the **Advanced Gene Mapping course** held at Rockefeller University, New York, NY.
+- **MARCH** - Attended the AAIC Advancements in Immunity meeting in Boston, MA - my first conference as a PhD student.
 
 ### 2022
 
-- **November** — Completed the **Advanced Gene Mapping course** held at Rockefeller University, New York, NY, USA.
 - **August** — Participated in diversity, equity, and inclusion initiatives through the **Center of Excellence in Youth Education (CEYE)** at Mount Sinai.
+- **June** - Advanced to PhD candidacy after successfully defending my dissertation proposal.
 
 ### 2021
 
-- **July** - Advanced to PhD candidacy after successfully defending my dissertation proposal.
+- **November** - [First-author publication](https://pubmed.ncbi.nlm.nih.gov/33135415/) from my undergraduate honors thesis work supervised by Drs. Jacquelyn Fetrow and Carol Parish was published in *Biochemistry*
+- **August** - Officially joined the [Raj lab](https://rajlab.org/) as the very first PhD student!
 
 ### 2020
 
 - **August** — Joined the **Icahn School of Medicine at Mount Sinai** as a PhD student in Biomedical Sciences.
+- **May** - Graduated with summa cum laude from the **University of Richmond** (Richmond, VA).
 
 ---
 
