@@ -11,39 +11,39 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 ## Talks and presentaions
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="/images/grc_1.jpeg" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/grc_1.jpeg" width="100%"><br>
 <em> Gordon Research Conference 2026</em>
 </td>
 
-<td align="center">
-<img src="/images/WPC_1.jpg" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/WPC_1.jpg" width="100%"><br>
 <em> World Parkinson's Congress 2026</em>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="/images/GBA1_1.jpeg" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/GBA1_1.jpeg" width="100%"><br>
 <em> GBA1 Meeting 2026 - Best Abstract Award</em>
 </td>
 
-<td align="center">
-<img src="/images/GBA1_2.jpeg" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/GBA1_2.jpeg" width="100%"><br>
 <em> GBA1 Meeting 2026 - Talk</em>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="/images/VA_2.jpg" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/VA_2.jpg" width="100%"><br>
 <em> Van Andel Meeting 2025 - Selected Speaker</em>
 </td>
 
-<td align="center">
-<img src="/images/ADPD_2.PNG" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/ADPD_2.PNG" width="100%"><br>
 <em> AD/PD Meeting 2025</em>
 </td>
 </tr>
@@ -63,7 +63,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <td align="center">
 <img src="/images/ASHG_2025_sunset.jpg" width="250"><br>
-<em>Boston sunset after a long conference day with the Raychaudhuri lab</em>
+<em>Boston sunset with the Raychaudhuri lab</em>
 </td>
 </tr>
 
