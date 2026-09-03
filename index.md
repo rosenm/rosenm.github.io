@@ -7,7 +7,7 @@ title: Mikaela Rosen Perez
 
 <img class="profile-picture" src="images/mikaela_1.JPG" width="120">
 
-I graduated with a PhD in Biomedical Sciences ([Genetics and Genomic Sciences](https://icahn.mssm.edu/research/genomics)) from the Icahn School of Medicine at Mount Sinai (ISMMS), advised by Dr. [Towfique Raj](https://scholar.google.com/citations?user=_1soEyEAAAAJ&hl=en). The [Raj Lab](https://rajlab.org/) broadly studies the molecular mechanisms and immune components of neurodegenerative disorders including Alzheimer's disease (AD), Parkinson's disease (PD) and Amyotrophic Lateral Sclerosis (ALS). My research focused on understanding the genetic and peripheral immune components of PD using computational approaches including single-cell RNA sequencing and expression quantitative trait loci analysis.
+I graduated with a PhD in Biomedical Sciences ([Genetics and Genomic Sciences](https://icahn.mssm.edu/research/genomics)) from the Icahn School of Medicine at Mount Sinai (ISMMS), advised by Dr. [Towfique Raj](https://scholar.google.com/citations?user=_1soEyEAAAAJ&hl=en)([Raj Lab @ MSSM](https://rajlab.org/)). My research focused on understanding the genetic and peripheral immune components of Parkinson's disease (PD) using computational approaches including single-cell RNA sequencing and expression quantitative trait loci analysis.
 
 I earned a Bachelor's of Science degree in Biology, specializing in Computational Biology, with honors from the [University of Richmond](https://www.richmond.edu). I completed research for all four years of my undergraduate education, studying the biochemical characteristics and molecular dynamics of protein superfamiles. 
 
