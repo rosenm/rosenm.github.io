@@ -14,7 +14,7 @@ My research is part of the shift in focus in the neurodegenerative field to expl
 <table>
 <tr>
 <td width="120" valign="middle">
-<img src="/images/scRNAseq.png" width="100">
+<img src="/images/scRNAseq.jpg" width="100">
 </td>
 
 <td valign="middle">
@@ -25,7 +25,7 @@ Large-scale comprehensive single-cell RNA sequencing and T-cell receptor analysi
 </tr>
 </table>
 
-BigBrain is a harmonized transcriptomic and genetic resource comprising 10,725 RNA-seq samples from 4,656 individuals across 12 brain cohorts. The resource enables large-scale discovery of trans-eQTLs and trans-sQTLs across ancestries, brain regions, and neurological disease contexts. By increasing statistical power for distal regulatory mapping, BigBrain provides a foundation for understanding the trans-regulatory architecture of the human brain and its relationship to neurological disease risk.
+Immune alterations in PD are found in peripheral blood indicating a pro-inflammatory status during disease and as early as prodromal stages. However, specific alterations are disputed and must be clarified with a large-scale study and a carefully curated single-cell cohort that controls for biological heterogeneity. By increasing statistical power for distal regulatory mapping, BigBrain provides a foundation for understanding the trans-regulatory architecture of the human brain and its relationship to neurological disease risk.
 
 This project is lead by myself, **Mikaela Rosen**, and an instructor in the Raj lab, Dr. Oriol Narcis and performed under supervision of our PI, Dr. Towfique Raj, in collaboration with Drs. Rachel Saunders-Pullman and Giulietta Riboldi. 
 
@@ -35,7 +35,7 @@ This project is lead by myself, **Mikaela Rosen**, and an instructor in the Raj 
 
 **Publications:** *Preprint coming soon!*
 
-*Presented at American Society of Human Genetics (ASHG) 2023 & 2025, Molecular Neurodegeneration and Therapeutic Approaches 2024, Grand Challenges in Parkinson’s disease 2024, T cells in the Brain 2025, AD/PD 2025, World Parkinson's Congress (WPC) 2026 and Neurobiology of Brain Disorders Gordon Research Conference (GRC) and Seminar (GRS) 2026.*
+*Presented at over 10 meetings and conferences including American Society of Human Genetics (ASHG) 2023 & 2025, AD/PD 2025, World Parkinson's Congress (WPC) 2026 and Neurobiology of Brain Disorders Gordon Research Conference (GRC) 2026.*
 
 ---
 
@@ -53,9 +53,9 @@ cis-QTL analysis of peripheral gene expression, T-cell receptor gene usage and H
 </tr>
 </table>
 
-This project investigated how gene co-expression networks are rewired across multiple brain regions in Alzheimer's disease. We developed a statistical framework to infer inter-tissue gene-gene interaction networks and quantify differences between healthy and diseased individuals. Applying this framework to postmortem brain transcriptomic data revealed disease-associated alterations in coordinated gene regulation across the frontal pole, superior temporal gyrus, parahippocampal gyrus, and inferior frontal gyrus. The work also explored the influence of cell-type composition on observed network changes using established cell-type marker genes.
+Genome-wide association studies (GWAS) have identified human leukocyte antigen (HLA) class II PD risk loci, which suggests an unexplored important role for CD4 T cells in their interaction with antigen presenting cells. This project investigate... I applied scHLApers to... We reveal that there are cell type specific and shared biology. Additionally, we find some signal unique to our cohort not previously seen in healthy cohorts. We are expanding this eQTL analysis to other neurodegenerative cohorts and biologically relevant tissues in the Raj Lab. 
 
-Sanga Mitra, **Kailash BP** (co-first), Naga Venkata Sai Kumar, Srivatsan C. R., Philge Philip, Manikandan Narayanan.
+This project is lead by myself, **Mikaela Rosen**, under supervision of our PI, Dr. Towfique Raj. Other key contributors in the Raj lab include Dr. Tasuhiko Naito, Dr. Oriol Narcis and Beomjin Jang. Additionally, I was mentored by Dr. Soumya Raychaudhuri (BWH/HM/Broad) and members of his lab including Drs. Yu Zhao and Jose Alquicira Hernandez. 
 
 **Key Skills:** Statistical genetics, HLA genetics, expression quantitative trait loci, genetic ancestry estimation
 
@@ -73,13 +73,13 @@ Sanga Mitra, **Kailash BP** (co-first), Naga Venkata Sai Kumar, Srivatsan C. R.,
 
 <td valign="middle">
 <h3 id="protein-MD">
-iGEM interlab measurement variabilities
+Isofunctional clustering and mechanistic characterization of the arsenate reductase superfamily of proteins
 </h3>
 </td>
 </tr>
 </table>
 
-The iGEM InterLab Study is a series of projects (<a href="https://doi.org/10.1371/journal.pone.0150182">2014 and 2015 study</a>, <a href="https://doi.org/10.1371/journal.pone.0199432">2016 study</a>,  <a href="https://doi.org/10.1038/s42003-020-01127-5">2018 study</a>) organized by the iGEM competition, focused on addressing the problems frequenting a lack of reproducibility in science. As part of the 2018 study, we investigated whether fluorescence measurements could be standardized by normalizing measurements to absolute cell counts rather than optical density alone. The study analyzed data from hundreds of laboratories worldwide and provided recommendations for improving the reliability and comparability of bacterial growth measurements.
+Applied autoMISST tool (created by Fetrow lab) to cluster the ArsC superfamily of proteins, improving their classification from three ambiguous groups to nine groups of proteins. Biochemically explored these isofunctional groups using molecular dynamics simulations to further hypothesize the enzyme reaction mechanism. Led a collaborative project between two mentors at different institutions which led to a first author publication and an honors thesis.
 
 This work was lead by me, **Mikaela Rosen**, under the supervision and mentorship of Dr. Carol Parish (University of Richmond) and Dr. Jacquelyn Fetrow (University of Richmond and Albright College).
 
