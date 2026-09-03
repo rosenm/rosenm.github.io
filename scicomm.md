@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Science Communication
+title: Achievements
 ---
 
-# Science Communication highlights
+# Achievements
 
 <table>
   <tr>
@@ -57,17 +57,28 @@ Related coverage:
 
 ---
 
-## Genomics Preprint Club {#genomics-preprint-club}
+## Awards & Honors
 
-**Article:** [Unraveling immunity: insights from biobank-scale data](https://www.cell.com/trends/genetics/abstract/S0168-9525(25)00188-X)
+- Carl Storm Opportunity Fellow
+  - Recipient of the bursary Award + Graduate Student Travel Award for Genome Informatics 2024 held at Hinxton, South Cambridgeshire, England.
 
-The Genomics Preprint Club is a community-led initiative that summarizes recent genomics preprints and makes it accessible to a broader audience. As part of this effort, I contributed an article discussing how biobank-scale datasets are reshaping our understanding of human immunity.
+- Visiting Scholar Award
+  - Recipient of the bursary Award + Graduate Student Travel Award for Genome Informatics 2024 held at Hinxton, South Cambridgeshire, England.
+ 
+- Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship
+  - Recipient of the F31 Fellowship from NINDS NIH
+  - 3 years of funding and support for my graduate training and research
+
+- Conference Travel Awards
+  - Selected as one of **21 predoctoral semifinalists** from over **1,000 applicants**. Awarded a travel and a cash award of $750 by the American Society of Human Genetics held at Washington DC, USA.
+  - WPC 
+  - GBA1 Meeting GCAN
+  - Protein Society
+
+- <span style="color:red"> Undergraduate Achievement Awards </span>
+  - One of **6 winning teams** selected from 26 finalists for presenting the ChassiDex project held at Chennai, India. 
+  - **Senior Research Award**
+  - **All A's Distinction**
+  - **Dean's List**
 
 ---
-
-## InterTissueDC Behind the Scenes {#intertissuedc-bts}
-
-**Article:** [Exploring gene-gene coupling across brain regions in Alzheimer's disease](https://communities.springernature.com/posts/intertissuedc-exploring-gene-gene-coupling-across-brain-regions-in-alzheimer-s-disease)
-
-This Springer Nature Research Communities article provides a behind-the-scenes look at the development of InterTissueDC, including the scientific questions that motivated the project and the challenges encountered while studying coordinated gene regulation across brain regions in Alzheimer's disease.
-
