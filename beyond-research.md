@@ -9,6 +9,26 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 ---
 
+## PhD Defense and Graduation
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="/images/defense_4_new.jpg" width="50%"><br>
+    </td>
+    <td align="center" width="50%">
+      <img src="/images/graduation_2.jpg" width="50%"><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="/images/defense_5.jpg" width="75%"><br>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Talks and presentaions
 
 <table width="100%">
@@ -54,27 +74,27 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 ## ASHG 2025
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="/images/ASHG_26_2.JPG" width="250"><br>
+<td width="50%" align="center">
+<img src="/images/ASHG_26_2.JPG" width="100%"><br>
 <em> ASHG 2025</em>
 </td>
 
-<td align="center">
-<img src="/images/ASHG_2025_sunset.jpg" width="250"><br>
+<td width="50%" align="center">
+<img src="/images/ASHG_2025_sunset.jpg" width="100%"><br>
 <em>Boston sunset with the Raychaudhuri lab</em>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="/images/ASHG_26_1.jpeg" width="250"><br>
+<td width="50%" align="center">
+<img src="/images/ASHG_26_1.jpeg" width="100%"><br>
 <em>Industry-sponsored afterparty</em>
 </td>
 
-<td align="center">
-<img src="/images/ASHG_2025.jpg" width="250"><br>
+<td width="50%" align="center">
+<img src="/images/ASHG_2025.jpg" width="100%"><br>
 <em>Lab dinner with friends from industry</em>
 </td>
 </tr>
@@ -132,7 +152,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 ---
 
-## Miscellaneous
+## Life Outside of Lab
 
 <table>
 <tr>
@@ -149,7 +169,7 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <tr>
 <td align="center">
-<img src="/images/misc_3.jpeg" width="200"><br>
+<img src="/images/misc_3.jpeg" width="250"><br>
 <em> Skiing in Vermont</em>
 </td>
 
