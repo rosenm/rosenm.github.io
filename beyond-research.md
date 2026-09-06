@@ -156,25 +156,25 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 <table width="100%">
 <tr>
-<td align="center">
-<img src="/images/misc_1.JPG" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/misc_1.JPG" width="100%"><br>
 <em> Hiking in Sedona, AZ</em>
 </td>
 
-<td align="center">
-<img src="/images/misc_2.jpeg" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/misc_2.jpeg" width="100%"><br>
 <em> Blueberry picking with my dog</em>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="/images/misc_3.jpeg" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/misc_3.jpeg" width="100%"><br>
 <em> Skiing in Vermont</em>
 </td>
 
-<td align="center">
-<img src="/images/misc_4.jpeg" width="50%"><br>
+<td width="50%" align="center">
+<img src="/images/misc_4.jpeg" width="100%"><br>
 <em> Watching US Open tennis</em>
 </td>
 </tr>
