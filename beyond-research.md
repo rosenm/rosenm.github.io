@@ -22,7 +22,7 @@ A few snapshots from conferences, travel, and life outside the lab.
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="/images/defense_5.jpg" width="75%"><br>
+      <img src="/images/defense_5.jpeg" width="75%"><br>
     </td>
   </tr>
 </table>
@@ -154,27 +154,27 @@ A few snapshots from conferences, travel, and life outside the lab.
 
 ## Life Outside of Lab
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
-<img src="/images/misc_1.JPG" width="250"><br>
+<img src="/images/misc_1.JPG" width="50%"><br>
 <em> Hiking in Sedona, AZ</em>
 </td>
 
 <td align="center">
-<img src="/images/misc_2.jpeg" width="250"><br>
+<img src="/images/misc_2.jpeg" width="50%"><br>
 <em> Blueberry picking with my dog</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/images/misc_3.jpeg" width="250"><br>
+<img src="/images/misc_3.jpeg" width="50%"><br>
 <em> Skiing in Vermont</em>
 </td>
 
 <td align="center">
-<img src="/images/misc_4.jpeg" width="250"><br>
+<img src="/images/misc_4.jpeg" width="50%"><br>
 <em> Watching US Open tennis</em>
 </td>
 </tr>
