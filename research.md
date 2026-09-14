@@ -33,6 +33,8 @@ This project is lead by myself, **Mikaela Rosen**, and an instructor in the Raj 
 
 **Publications:** *Preprint coming soon!*
 
+**Links:** [GitHub Page](https://github.com/RajLabMSSM/sc_PBMC_PD)
+
 *Presented at over 10 meetings and conferences including American Society of Human Genetics (ASHG) 2023 & 2025, AD/PD 2025, World Parkinson's Congress (WPC) 2026 and Neurobiology of Brain Disorders Gordon Research Conference (GRC) 2026.*
 
 ---
