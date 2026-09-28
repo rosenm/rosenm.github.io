@@ -47,7 +47,7 @@ Poster, speaker or abstract awards are given by selection and organizing committ
 Conference travel awards are given by selection and organizing committees based on the quality of abstracts and external application materials.
 
 - **World Parkinson's Congress (WPC)**: Supported by a travel award from the [Parkinson's Foundation](https://www.parkinson.org/) to present my work I completed during my time as a Visiting Scholar (see above).
-- **GBA1 Meeting**: Granted a travel award for the GBA1 Meeting in Canada funded by G-Can (GBA1 Canada), a group dedicated to advancing research and developing treatments for neurodegenerative conditions linked to the GBA1 gene.
+- **GBA1 Meeting**: Granted a travel award for the GBA1 Meeting in Phoenix funded by G-Can (GBA1 Canada), a group dedicated to advancing research and developing treatments for neurodegenerative conditions linked to the GBA1 gene.
 - **Protein Society**: Received funding to attend the Protein Society Meeting 2019 in Seattle, WA where I presented my undergraduate research. 
 
 ---
