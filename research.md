@@ -29,7 +29,7 @@ The role of peripheral immunity in Parkinson's disease (PD) remains incompletely
 
 This project is lead by myself, **Mikaela Rosen**, and an instructor in the Raj lab, Dr. Oriol Narcis and performed under supervision of our PI, Dr. Towfique Raj, in collaboration with clinicians Drs. Rachel Saunders-Pullman and Giulietta Riboldi. 
 
-**Key Skills:** Single-cell RNA sequencing analysis, R/Python coding, pipeline development (ex: Snakemake), Differential expression analysis (ex: DESeq2, limma), Sample-collection strategy, Multi-omic analysis, T cell immune repertoire analysis
+**Key Skills:** Single-cell RNA sequencing analysis, Multi-Omics Data Integration, R/Python coding, Pipeline Development (ex: Snakemake, Linux/Bash), Differential Expression Analysis (ex: DESeq2, limma), Sample-collection strategy, T cell Immune Repertoire Analysis
 
 **Publications:** *Preprint coming soon!*
 
@@ -57,7 +57,7 @@ Genome-wide association studies (GWAS) have identified HLA class II PD risk loci
 
 This project is lead by myself, **Mikaela Rosen**, under supervision of our PI, Dr. Towfique Raj. Other key contributors in the Raj lab include Dr. Tasuhiko Naito, Dr. Oriol Narcis and Beomjin Jang. Additionally, I was mentored by Dr. Soumya Raychaudhuri (BWH/HM/Broad) and members of his lab including Drs. Yu Zhao and Jose Alquicira Hernandez. 
 
-**Key Skills:** Statistical genetics, HLA genetics, expression quantitative trait loci, genetic ancestry estimation
+**Key Skills:** Statistical Genetics, HLA Genetics, Expression quantitative trait loci (eQTL), Linear Regression & Mixed Models, Genotype Quality Control, Genotype Imputation, Population Structure Analysis
 
 **Links:** *Coming soon.*
 
