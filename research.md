@@ -31,7 +31,7 @@ This project is lead by myself, **Mikaela Rosen**, and an instructor in the Raj 
 
 **Key Skills:** Single-cell RNA sequencing analysis, Multi-Omics Data Integration, R/Python coding, Pipeline Development (ex: Snakemake, Linux/Bash), Differential Expression Analysis (ex: DESeq2, limma), Sample-collection strategy, T cell Immune Repertoire Analysis
 
-**Publications:** *Preprint coming soon!*
+**Publications:** [Preprint on medRxiv](https://www.medrxiv.org/content/10.64898/2026.09.23.26363800v1)
 
 **Links:** [GitHub Page](https://github.com/RajLabMSSM/sc_PBMC_PD)
 
