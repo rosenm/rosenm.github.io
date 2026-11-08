@@ -27,7 +27,7 @@ title: Activities
 
 - **September** — Attended and presented a selected speaker talk at the **Grand Challenges in Parkinson's disease** hosted at Van Andel Institute, Grand Rapids, MI.
 - **June** — Awarded the Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship **F31 grant**.
-- **January** — **Molecular Neurodegeneration** course at Wellcome Genome Campus, United Kingdom.
+- **January** — **Molecular Neurodegeneration and Therapeutic Approaches** course at Wellcome Genome Campus, United Kingdom.
 
 ### 2023
 
@@ -51,7 +51,7 @@ title: Activities
 ### 2020
 
 - **August** — Joined the **Icahn School of Medicine at Mount Sinai** as a PhD student in Biomedical Sciences.
-- **May** - Graduated with summa cum laude from the **University of Richmond** (Richmond, VA).
+- **May** - Graduated with *summa cum laude* from the **University of Richmond** (Richmond, VA).
 
 ---
 
@@ -70,7 +70,7 @@ title: Activities
 
 ## Service & Outreach
 
-- **Mount Sinai PhD application interviewee**  (Jan 2023, Feb 2024)
+- **Mount Sinai PhD application interviewer**  (Jan 2023, Feb 2024)
 - **Center of Excellence in Youth Education (CEYE), Mount Sinai** (Aug 2022) - Served as a volunteer tutor, teaching high school students Bioinformatics, its many uses, and its real-life applications.
 
 ## Professional memberships
